@@ -1,29 +1,49 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace WORK1
+namespace WORK2
 {
-    class Program
+    public partial class Form1 : Form
     {
-        static void Main(string[] args)
+        public Form1()
         {
-            Console.WriteLine("输入第一个数字");
-            string strA = Console.ReadLine();
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string strA = textBox1.Text;
+            string strB = textBox2.Text;
+            string strX = comboBox3.Text.ToString();
             if (strA != "")
             {
-                Console.WriteLine("输入第二个数字");
-                string strB = Console.ReadLine();
                 if (strB != "")
                 {
-                    Console.WriteLine("请输入运算符");
-                    string strX = Console.ReadLine();
                     int intA = int.Parse(strA);
                     int intB = int.Parse(strB);
                     int intC = new int();
-
                     switch (strX)
                     {
                         case "+":
@@ -39,21 +59,22 @@ namespace WORK1
                             intC = intA / intB;
                             break;
                         default:
-                            Console.WriteLine("不支持的运算符");
+                            MessageBox.Show("不支持的运算符");
                             break;
                     }
-                    Console.WriteLine("计算的结果是" + intC);
+                    string strC = Convert.ToString(intC);
+                    textBox3.Text = strC;
+
                 }
                 else
                 {
-                    Console.WriteLine("您输入的是空值");
+                    MessageBox.Show("输入了空值");
                 }
             }
             else
             {
-                Console.WriteLine("您输入的是空值");
+                MessageBox.Show("输入了空值");
             }
-            Console.ReadKey();
         }
     }
 }
