@@ -1,7 +1,0 @@
-C:\Users\zaz87\source\repos\WORK1\WORK1\bin\Debug\WORK1.exe.config
-C:\Users\zaz87\source\repos\WORK1\WORK1\bin\Debug\WORK1.exe
-C:\Users\zaz87\source\repos\WORK1\WORK1\bin\Debug\WORK1.pdb
-C:\Users\zaz87\source\repos\WORK1\WORK1\obj\Debug\WORK1.csprojAssemblyReference.cache
-C:\Users\zaz87\source\repos\WORK1\WORK1\obj\Debug\WORK1.csproj.CoreCompileInputs.cache
-C:\Users\zaz87\source\repos\WORK1\WORK1\obj\Debug\WORK1.exe
-C:\Users\zaz87\source\repos\WORK1\WORK1\obj\Debug\WORK1.pdb
