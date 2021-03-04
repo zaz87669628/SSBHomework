@@ -1,0 +1,16 @@
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.exe
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.deps.json
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.runtimeconfig.json
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.runtimeconfig.dev.json
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.dll
+C:\Users\zaz87\source\repos\WORK1\WORK2\bin\Debug\netcoreapp3.1\WORK2.pdb
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.csprojAssemblyReference.cache
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.Form1.resources
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.Properties.Resources.resources
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.csproj.GenerateResource.cache
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.AssemblyInfoInputs.cache
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.AssemblyInfo.cs
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.csproj.CoreCompileInputs.cache
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.dll
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.pdb
+C:\Users\zaz87\source\repos\WORK1\WORK2\obj\Debug\netcoreapp3.1\WORK2.genruntimeconfig.cache
