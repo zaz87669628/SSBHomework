@@ -1,0 +1,7 @@
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\bin\Debug\SelectPrimeNumber.exe.config
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\bin\Debug\SelectPrimeNumber.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\bin\Debug\SelectPrimeNumber.pdb
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\obj\Debug\SelectPrimeNumber.csprojAssemblyReference.cache
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\obj\Debug\SelectPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\obj\Debug\SelectPrimeNumber.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\SelectPrimeNumber\obj\Debug\SelectPrimeNumber.pdb

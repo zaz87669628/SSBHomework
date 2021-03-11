@@ -1,0 +1,7 @@
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\bin\Debug\MatrixToeplitz.exe.config
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\bin\Debug\MatrixToeplitz.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\bin\Debug\MatrixToeplitz.pdb
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\obj\Debug\MatrixToeplitz.csproj.CoreCompileInputs.cache
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\obj\Debug\MatrixToeplitz.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\obj\Debug\MatrixToeplitz.pdb
+C:\Users\zaz87\source\repos\HOMEWORK2\MatrixToeplitz\obj\Debug\MatrixToeplitz.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\bin\Debug\ArrayFactor.exe.config
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\bin\Debug\ArrayFactor.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\bin\Debug\ArrayFactor.pdb
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\obj\Debug\ArrayFactor.csproj.CoreCompileInputs.cache
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\obj\Debug\ArrayFactor.exe
+C:\Users\zaz87\source\repos\HOMEWORK2\ArrayFactor\obj\Debug\ArrayFactor.pdb
