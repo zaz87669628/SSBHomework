@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Custmor.cs" />
-    <Compile Include="Item.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderDetails.cs" />
     <Compile Include="OrderService.cs" />
