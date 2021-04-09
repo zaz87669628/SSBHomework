@@ -46,6 +46,10 @@ namespace homework5
             get;
             set;
         }
+        public float getCost()
+        {
+            return this.count * this.cost;
+        }
     }
 
 
